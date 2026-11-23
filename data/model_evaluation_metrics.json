@@ -1,0 +1,70 @@
+{
+  "dataset_summary": {
+    "test_sample_count": 51,
+    "classes": [
+      "HR",
+      "IT",
+      "ADMIN"
+    ]
+  },
+  "models": {
+    "TF_IDF_Baseline": {
+      "name": "TF-IDF + Logistic Regression Baseline",
+      "accuracy": 0.902,
+      "precision_macro": 0.9206,
+      "precision_weighted": 0.9094,
+      "recall_macro": 0.8825,
+      "recall_weighted": 0.902,
+      "f1_macro": 0.8947,
+      "f1_weighted": 0.9004,
+      "intent_accuracy": 0.9216,
+      "ticket_routing_accuracy": 0.902,
+      "confusion_matrix": [
+        [
+          19,
+          1,
+          0
+        ],
+        [
+          1,
+          18,
+          0
+        ],
+        [
+          1,
+          2,
+          9
+        ]
+      ]
+    },
+    "BiLSTM_DeepLearning": {
+      "name": "Bidirectional LSTM (Deep Learning Neural Network)",
+      "accuracy": 0.9216,
+      "precision_macro": 0.9349,
+      "precision_weighted": 0.9254,
+      "recall_macro": 0.9102,
+      "recall_weighted": 0.9216,
+      "f1_macro": 0.9197,
+      "f1_weighted": 0.9213,
+      "intent_accuracy": 0.8235,
+      "ticket_routing_accuracy": 0.9216,
+      "confusion_matrix": [
+        [
+          19,
+          1,
+          0
+        ],
+        [
+          1,
+          18,
+          0
+        ],
+        [
+          1,
+          1,
+          10
+        ]
+      ]
+    }
+  }
+}

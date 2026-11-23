@@ -1,0 +1,23 @@
+version: '3.8'
+
+services:
+  officemate:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: officemate:latest
+    container_name: officemate-app
+    restart: unless-stopped
+    ports:
+      - "8501:8501"
+      - "5000:5000"
+    volumes:
+      - officemate-db:/app/data
+    environment:
+      - STREAMLIT_SERVER_HEADLESS=true
+      - STREAMLIT_GATHER_USAGE_STATS=false
+      - APP_NAME=OfficeMate
+
+volumes:
+  officemate-db:
+    name: officemate-db-storage

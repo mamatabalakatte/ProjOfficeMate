@@ -1,0 +1,29 @@
+# Python
+.venv/
+venv/
+ENV/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+.coverage
+htmlcov/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Streamlit
+.streamlit/credentials.toml
+
+# Zip
+ProjectOfficeMate.zip
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo

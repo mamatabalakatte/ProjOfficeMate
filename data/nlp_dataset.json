@@ -1,0 +1,1687 @@
+[
+  {
+    "text": "The air conditioning on the 2nd floor east wing is freezing cold",
+    "dept": "ADMIN",
+    "intent": "facilities_supplies"
+  },
+  {
+    "text": "How do I submit an approval request to use Slack workspace tool?",
+    "dept": "IT",
+    "intent": "software_access"
+  },
+  {
+    "text": "Could you explain the process for applying unpaid off days?",
+    "dept": "HR",
+    "intent": "leave_inquiry"
+  },
+  {
+    "text": "Could you explain the process for applying casual off days?",
+    "dept": "HR",
+    "intent": "leave_inquiry"
+  },
+  {
+    "text": "Printer on the 3rd floor hallway is out of cyan toner and jammed with paper",
+    "dept": "ADMIN",
+    "intent": "facilities_supplies"
+  },
+  {
+    "text": "Can I get reimbursement for flight tickets incurred during client workshop?",
+    "dept": "ADMIN",
+    "intent": "travel_expense"
+  },
+  {
+    "text": "Does company policy provide reimbursement for annual health checkup fitness expenses?",
+    "dept": "HR",
+    "intent": "benefits_insurance"
+  },
+  {
+    "text": "Can family dependents get coverage for dependent health checkups?",
+    "dept": "HR",
+    "intent": "benefits_insurance"
+  },
+  {
+    "text": "Inquiry regarding bonus tax deduction on my monthly paycheck.",
+    "dept": "HR",
+    "intent": "payroll_salary"
+  },
+  {
+    "text": "How do I file an expense claim for business client dinner meal expenses?",
+    "dept": "ADMIN",
+    "intent": "travel_expense"
+  },
+  {
+    "text": "Does company policy provide reimbursement for outpatient fitness expenses?",
+    "dept": "HR",
+    "intent": "benefits_insurance"
+  },
+  {
+    "text": "The VPN client shows timeout while establishing secure tunnel connection",
+    "dept": "IT",
+    "intent": "vpn_network"
+  },
+  {
+    "text": "How do I install approved software packages without admin privileges?",
+    "dept": "IT",
+    "intent": "software_access"
+  },
+  {
+    "text": "Need urgent IT hardware support for broken USB-C charger.",
+    "dept": "IT",
+    "intent": "hardware_issue"
+  },
+  {
+    "text": "When is the cutoff for submitting bonus payroll declarations?",
+    "dept": "HR",
+    "intent": "payroll_salary"
+  },
+  {
+    "text": "How do I update my bank account for provident fund deposits?",
+    "dept": "HR",
+    "intent": "payroll_salary"
+  },
+  {
+    "text": "The ergonomic chair in the reception lobby is out of order.",
+    "dept": "ADMIN",
+    "intent": "facilities_supplies"
+  },
+  {
+    "text": "Where in the finance portal do I upload hotel per diem receipts?",
+    "dept": "ADMIN",
+    "intent": "travel_expense"
+  },
+  {
+    "text": "My Okta multi-factor authentication (MFA) push notification is not coming",
+    "dept": "IT",
+    "intent": "vpn_network"
+  },
+  {
+    "text": "Does our insurance policy cover outpatient consultations and diagnostics?",
+    "dept": "HR",
+    "intent": "benefits_insurance"
+  },
+  {
+    "text": "What is the maximum allowed budget for business trip airport taxi fare?",
+    "dept": "ADMIN",
+    "intent": "travel_expense"
+  },
+  {
+    "text": "MacBook Pro battery draining in less than an hour and overheating",
+    "dept": "IT",
+    "intent": "hardware_issue"
+  },
+  {
+    "text": "Need help configuring Okta MFA token on my company-issued machine.",
+    "dept": "IT",
+    "intent": "vpn_network"
+  },
+  {
+    "text": "My Docker Desktop desktop application crashes during video calls.",
+    "dept": "IT",
+    "intent": "software_access"
+  },
+  {
+    "text": "Can network team check why Okta MFA token is unreachable today?",
+    "dept": "IT",
+    "intent": "vpn_network"
+  },
+  {
+    "text": "Inquiry regarding overtime pay tax deduction on my monthly paycheck.",
+    "dept": "HR",
+    "intent": "payroll_salary"
+  },
+  {
+    "text": "Need access permissions for AWS console developer environment.",
+    "dept": "IT",
+    "intent": "software_access"
+  },
+  {
+    "text": "Need a replacement parking slot for my assigned office desk.",
+    "dept": "ADMIN",
+    "intent": "facilities_supplies"
+  },
+  {
+    "text": "My claim for client dinner meal was returned asking for receipt clarification.",
+    "dept": "ADMIN",
+    "intent": "travel_expense"
+  },
+  {
+    "text": "Getting permission denied error when accessing AWS console directory.",
+    "dept": "IT",
+    "intent": "software_access"
+  },
+  {
+    "text": "Cannot access internal GitLab server from home without VPN connection",
+    "dept": "IT",
+    "intent": "vpn_network"
+  },
+  {
+    "text": "How do I submit an approval request to use PyCharm IDE tool?",
+    "dept": "IT",
+    "intent": "software_access"
+  },
+  {
+    "text": "Requesting office assistance regarding ergonomic chair on our floor.",
+    "dept": "ADMIN",
+    "intent": "facilities_supplies"
+  },
+  {
+    "text": "Getting timeout error when authenticating via corporate WiFi.",
+    "dept": "IT",
+    "intent": "vpn_network"
+  },
+  {
+    "text": "Need urgent IT hardware support for broken docking station.",
+    "dept": "IT",
+    "intent": "hardware_issue"
+  },
+  {
+    "text": "I got locked out of my corporate Active Directory and email account",
+    "dept": "IT",
+    "intent": "vpn_network"
+  },
+  {
+    "text": "Are dental healthcare medical expenses covered under company plan?",
+    "dept": "HR",
+    "intent": "benefits_insurance"
+  },
+  {
+    "text": "Is maternity leave allowed for new employees during probation?",
+    "dept": "HR",
+    "intent": "leave_inquiry"
+  },
+  {
+    "text": "Is paternity leave allowed for new employees during probation?",
+    "dept": "HR",
+    "intent": "leave_inquiry"
+  },
+  {
+    "text": "How to book international business flights through company corporate travel agent?",
+    "dept": "ADMIN",
+    "intent": "travel_expense"
+  },
+  {
+    "text": "Inquiry regarding direct deposit tax deduction on my monthly paycheck.",
+    "dept": "HR",
+    "intent": "payroll_salary"
+  },
+  {
+    "text": "Can family dependents get coverage for annual health checkup checkups?",
+    "dept": "HR",
+    "intent": "benefits_insurance"
+  },
+  {
+    "text": "Need a replacement stationery supplies for my assigned office desk.",
+    "dept": "ADMIN",
+    "intent": "facilities_supplies"
+  },
+  {
+    "text": "The stationery supplies in the reception lobby is out of order.",
+    "dept": "ADMIN",
+    "intent": "facilities_supplies"
+  },
+  {
+    "text": "The mechanical keyboard connected to my workstation stopped functioning.",
+    "dept": "IT",
+    "intent": "hardware_issue"
+  },
+  {
+    "text": "How do I claim reimbursement for prescription medicines purchased outside?",
+    "dept": "HR",
+    "intent": "benefits_insurance"
+  },
+  {
+    "text": "Why does firewall port fail whenever I switch wireless networks?",
+    "dept": "IT",
+    "intent": "vpn_network"
+  },
+  {
+    "text": "What documents are needed when taking paternity leave?",
+    "dept": "HR",
+    "intent": "leave_inquiry"
+  },
+  {
+    "text": "When is the cutoff for submitting salary payslip payroll declarations?",
+    "dept": "HR",
+    "intent": "payroll_salary"
+  },
+  {
+    "text": "The external 4K monitor connected to my workstation stopped functioning.",
+    "dept": "IT",
+    "intent": "hardware_issue"
+  },
+  {
+    "text": "The coffee espresso vending machine in the 2nd floor cafeteria is leaking water",
+    "dept": "ADMIN",
+    "intent": "facilities_supplies"
+  },
+  {
+    "text": "Requesting software license and activation key for Jira board.",
+    "dept": "IT",
+    "intent": "software_access"
+  },
+  {
+    "text": "Can facilities team check the air conditioning temperature near the conference room?",
+    "dept": "ADMIN",
+    "intent": "facilities_supplies"
+  },
+  {
+    "text": "When will the annual performance bonus be credited to our accounts?",
+    "dept": "HR",
+    "intent": "payroll_salary"
+  },
+  {
+    "text": "Can I exchange my damaged webcam microphone at the IT support desk?",
+    "dept": "IT",
+    "intent": "hardware_issue"
+  },
+  {
+    "text": "Experiencing issues connecting to GlobalProtect VPN network tunnel.",
+    "dept": "IT",
+    "intent": "vpn_network"
+  },
+  {
+    "text": "Can I combine paternity leave with weekend public holidays?",
+    "dept": "HR",
+    "intent": "leave_inquiry"
+  },
+  {
+    "text": "How is provident fund (PF) contribution calculated on basic salary?",
+    "dept": "HR",
+    "intent": "payroll_salary"
+  },
+  {
+    "text": "How does unpaid sabbatical leave affect my healthcare benefits?",
+    "dept": "HR",
+    "intent": "leave_inquiry"
+  },
+  {
+    "text": "Can facilities team check the printer toner near the conference room?",
+    "dept": "ADMIN",
+    "intent": "facilities_supplies"
+  },
+  {
+    "text": "Getting timeout error when authenticating via Okta MFA token.",
+    "dept": "IT",
+    "intent": "vpn_network"
+  },
+  {
+    "text": "Need Adobe Creative Cloud license for marketing collateral design",
+    "dept": "IT",
+    "intent": "software_access"
+  },
+  {
+    "text": "How do I request an ergonomic office chair and adjustable standing desk?",
+    "dept": "ADMIN",
+    "intent": "facilities_supplies"
+  },
+  {
+    "text": "Can I encash my unused privilege leaves at the end of the year?",
+    "dept": "HR",
+    "intent": "leave_inquiry"
+  },
+  {
+    "text": "What is the procedure to apply for 3 weeks of maternity leave?",
+    "dept": "HR",
+    "intent": "leave_inquiry"
+  },
+  {
+    "text": "Could you explain the process for applying sick off days?",
+    "dept": "HR",
+    "intent": "leave_inquiry"
+  },
+  {
+    "text": "Is casual leave allowed for new employees during probation?",
+    "dept": "HR",
+    "intent": "leave_inquiry"
+  },
+  {
+    "text": "Requesting software license and activation key for PyCharm IDE.",
+    "dept": "IT",
+    "intent": "software_access"
+  },
+  {
+    "text": "Could you explain the process for applying bereavement off days?",
+    "dept": "HR",
+    "intent": "leave_inquiry"
+  },
+  {
+    "text": "Does company policy provide reimbursement for prescription drug fitness expenses?",
+    "dept": "HR",
+    "intent": "benefits_insurance"
+  },
+  {
+    "text": "Is sick leave allowed for new employees during probation?",
+    "dept": "HR",
+    "intent": "leave_inquiry"
+  },
+  {
+    "text": "Requesting software license and activation key for Slack workspace.",
+    "dept": "IT",
+    "intent": "software_access"
+  },
+  {
+    "text": "Need access permissions for Docker Desktop developer environment.",
+    "dept": "IT",
+    "intent": "software_access"
+  },
+  {
+    "text": "Can I combine sick leave with weekend public holidays?",
+    "dept": "HR",
+    "intent": "leave_inquiry"
+  },
+  {
+    "text": "Need help configuring firewall port on my company-issued machine.",
+    "dept": "IT",
+    "intent": "vpn_network"
+  },
+  {
+    "text": "Can family dependents get coverage for vision checkups?",
+    "dept": "HR",
+    "intent": "benefits_insurance"
+  },
+  {
+    "text": "Requesting software license and activation key for Docker Desktop.",
+    "dept": "IT",
+    "intent": "software_access"
+  },
+  {
+    "text": "When is the cutoff for submitting direct deposit payroll declarations?",
+    "dept": "HR",
+    "intent": "payroll_salary"
+  },
+  {
+    "text": "Getting timeout error when authenticating via firewall port.",
+    "dept": "IT",
+    "intent": "vpn_network"
+  },
+  {
+    "text": "What documents are needed when taking maternity leave?",
+    "dept": "HR",
+    "intent": "leave_inquiry"
+  },
+  {
+    "text": "Requesting office assistance regarding air conditioning temperature on our floor.",
+    "dept": "ADMIN",
+    "intent": "facilities_supplies"
+  },
+  {
+    "text": "Need access permissions to the AWS production RDS database instance",
+    "dept": "IT",
+    "intent": "software_access"
+  },
+  {
+    "text": "Are dependent health healthcare medical expenses covered under company plan?",
+    "dept": "HR",
+    "intent": "benefits_insurance"
+  },
+  {
+    "text": "What documents are needed when taking unpaid leave?",
+    "dept": "HR",
+    "intent": "leave_inquiry"
+  },
+  {
+    "text": "My work laptop has a faulty docking station requiring replacement.",
+    "dept": "IT",
+    "intent": "hardware_issue"
+  },
+  {
+    "text": "How do I update my bank account for tax withholding deposits?",
+    "dept": "HR",
+    "intent": "payroll_salary"
+  },
+  {
+    "text": "The docking station connected to my workstation stopped functioning.",
+    "dept": "IT",
+    "intent": "hardware_issue"
+  },
+  {
+    "text": "How do I update my bank account for salary payslip deposits?",
+    "dept": "HR",
+    "intent": "payroll_salary"
+  },
+  {
+    "text": "What is the policy for bereavement and compassionate leave?",
+    "dept": "HR",
+    "intent": "leave_inquiry"
+  },
+  {
+    "text": "Hard drive disk space is 99% full due to system cache and swap files",
+    "dept": "IT",
+    "intent": "hardware_issue"
+  },
+  {
+    "text": "Can network team check why firewall port is unreachable today?",
+    "dept": "IT",
+    "intent": "vpn_network"
+  },
+  {
+    "text": "Can I exchange my damaged USB-C charger at the IT support desk?",
+    "dept": "IT",
+    "intent": "hardware_issue"
+  },
+  {
+    "text": "Can I exchange my damaged mechanical keyboard at the IT support desk?",
+    "dept": "IT",
+    "intent": "hardware_issue"
+  },
+  {
+    "text": "My mechanical keyboard spacebar key is stuck and not registering input",
+    "dept": "IT",
+    "intent": "hardware_issue"
+  },
+  {
+    "text": "Is vacation leave allowed for new employees during probation?",
+    "dept": "HR",
+    "intent": "leave_inquiry"
+  },
+  {
+    "text": "Can I combine casual leave with weekend public holidays?",
+    "dept": "HR",
+    "intent": "leave_inquiry"
+  },
+  {
+    "text": "Where in the finance portal do I upload car mileage allowance receipts?",
+    "dept": "ADMIN",
+    "intent": "travel_expense"
+  },
+  {
+    "text": "How do I update my bank account details for payroll direct deposit?",
+    "dept": "HR",
+    "intent": "payroll_salary"
+  },
+  {
+    "text": "Can I get reimbursement for client dinner meal incurred during client workshop?",
+    "dept": "ADMIN",
+    "intent": "travel_expense"
+  },
+  {
+    "text": "My Figma design desktop application crashes during video calls.",
+    "dept": "IT",
+    "intent": "software_access"
+  },
+  {
+    "text": "My office WiFi is repeatedly disconnecting on the 3rd floor",
+    "dept": "IT",
+    "intent": "vpn_network"
+  },
+  {
+    "text": "How do I submit travel expense receipts for flight and hotel reimbursement?",
+    "dept": "ADMIN",
+    "intent": "travel_expense"
+  },
+  {
+    "text": "Could you explain the process for applying paternity off days?",
+    "dept": "HR",
+    "intent": "leave_inquiry"
+  },
+  {
+    "text": "How do I register two external client visitors for meeting room access tomorrow?",
+    "dept": "ADMIN",
+    "intent": "facilities_supplies"
+  },
+  {
+    "text": "Can I exchange my damaged laptop battery at the IT support desk?",
+    "dept": "IT",
+    "intent": "hardware_issue"
+  },
+  {
+    "text": "How do I submit an approval request to use Docker Desktop tool?",
+    "dept": "IT",
+    "intent": "software_access"
+  },
+  {
+    "text": "What is the maximum hotel room rate allowed per night in Tier 1 cities?",
+    "dept": "ADMIN",
+    "intent": "travel_expense"
+  },
+  {
+    "text": "There is a discrepancy in my direct deposit component on my payslip.",
+    "dept": "HR",
+    "intent": "payroll_salary"
+  },
+  {
+    "text": "Can I claim taxi cab fare from the airport to hotel during client visit?",
+    "dept": "ADMIN",
+    "intent": "travel_expense"
+  },
+  {
+    "text": "What documents are needed when taking vacation leave?",
+    "dept": "HR",
+    "intent": "leave_inquiry"
+  },
+  {
+    "text": "Getting permission denied error when accessing Docker Desktop directory.",
+    "dept": "IT",
+    "intent": "software_access"
+  },
+  {
+    "text": "How do I submit hospital bills for gym wellness claim approval?",
+    "dept": "HR",
+    "intent": "benefits_insurance"
+  },
+  {
+    "text": "What is the mileage reimbursement rate if I use my personal car for client meetings?",
+    "dept": "ADMIN",
+    "intent": "travel_expense"
+  },
+  {
+    "text": "How do I submit hospital bills for dental claim approval?",
+    "dept": "HR",
+    "intent": "benefits_insurance"
+  },
+  {
+    "text": "Can family dependents get coverage for outpatient checkups?",
+    "dept": "HR",
+    "intent": "benefits_insurance"
+  },
+  {
+    "text": "Need a replacement printer toner for my assigned office desk.",
+    "dept": "ADMIN",
+    "intent": "facilities_supplies"
+  },
+  {
+    "text": "Can I get reimbursement for airport taxi fare incurred during client workshop?",
+    "dept": "ADMIN",
+    "intent": "travel_expense"
+  },
+  {
+    "text": "Does company policy provide reimbursement for gym wellness fitness expenses?",
+    "dept": "HR",
+    "intent": "benefits_insurance"
+  },
+  {
+    "text": "Are public holidays counted as part of annual leave when taking a full week off?",
+    "dept": "HR",
+    "intent": "leave_inquiry"
+  },
+  {
+    "text": "Can network team check why corporate WiFi is unreachable today?",
+    "dept": "IT",
+    "intent": "vpn_network"
+  },
+  {
+    "text": "How do I submit an emergency leave application without prior notice?",
+    "dept": "HR",
+    "intent": "leave_inquiry"
+  },
+  {
+    "text": "How do I submit an approval request to use Jira board tool?",
+    "dept": "IT",
+    "intent": "software_access"
+  },
+  {
+    "text": "What documents are needed when taking sick leave?",
+    "dept": "HR",
+    "intent": "leave_inquiry"
+  },
+  {
+    "text": "What are the rules regarding paternity leave duration and splitting?",
+    "dept": "HR",
+    "intent": "leave_inquiry"
+  },
+  {
+    "text": "Need access permissions for Jira board developer environment.",
+    "dept": "IT",
+    "intent": "software_access"
+  },
+  {
+    "text": "Inquiry regarding tax withholding tax deduction on my monthly paycheck.",
+    "dept": "HR",
+    "intent": "payroll_salary"
+  },
+  {
+    "text": "Why does GlobalProtect VPN fail whenever I switch wireless networks?",
+    "dept": "IT",
+    "intent": "vpn_network"
+  },
+  {
+    "text": "Can I get an external webcam and noise cancelling headset for remote calls?",
+    "dept": "IT",
+    "intent": "hardware_issue"
+  },
+  {
+    "text": "Can unused vacation days be carried over to the next financial year?",
+    "dept": "HR",
+    "intent": "leave_inquiry"
+  },
+  {
+    "text": "Can I combine vacation leave with weekend public holidays?",
+    "dept": "HR",
+    "intent": "leave_inquiry"
+  },
+  {
+    "text": "Experiencing issues connecting to SSH bastion network tunnel.",
+    "dept": "IT",
+    "intent": "vpn_network"
+  },
+  {
+    "text": "The parking slot in the reception lobby is out of order.",
+    "dept": "ADMIN",
+    "intent": "facilities_supplies"
+  },
+  {
+    "text": "How do I submit an approval request to use Figma design tool?",
+    "dept": "IT",
+    "intent": "software_access"
+  },
+  {
+    "text": "GlobalProtect VPN connection failed with authentication error",
+    "dept": "IT",
+    "intent": "vpn_network"
+  },
+  {
+    "text": "What documents are needed when taking bereavement leave?",
+    "dept": "HR",
+    "intent": "leave_inquiry"
+  },
+  {
+    "text": "Are gym wellness healthcare medical expenses covered under company plan?",
+    "dept": "HR",
+    "intent": "benefits_insurance"
+  },
+  {
+    "text": "Can I exchange my damaged external 4K monitor at the IT support desk?",
+    "dept": "IT",
+    "intent": "hardware_issue"
+  },
+  {
+    "text": "Who can help me understand my provident fund year-end deductions?",
+    "dept": "HR",
+    "intent": "payroll_salary"
+  },
+  {
+    "text": "Requesting software license and activation key for Figma design.",
+    "dept": "IT",
+    "intent": "software_access"
+  },
+  {
+    "text": "What is the maximum allowed budget for business trip car mileage allowance?",
+    "dept": "ADMIN",
+    "intent": "travel_expense"
+  },
+  {
+    "text": "My work laptop has a faulty webcam microphone requiring replacement.",
+    "dept": "IT",
+    "intent": "hardware_issue"
+  },
+  {
+    "text": "There is a discrepancy in my provident fund component on my payslip.",
+    "dept": "HR",
+    "intent": "payroll_salary"
+  },
+  {
+    "text": "My Jira board desktop application crashes during video calls.",
+    "dept": "IT",
+    "intent": "software_access"
+  },
+  {
+    "text": "Need help configuring SSH bastion on my company-issued machine.",
+    "dept": "IT",
+    "intent": "vpn_network"
+  },
+  {
+    "text": "When is the cutoff for submitting provident fund payroll declarations?",
+    "dept": "HR",
+    "intent": "payroll_salary"
+  },
+  {
+    "text": "Getting permission denied error when accessing Jira board directory.",
+    "dept": "IT",
+    "intent": "software_access"
+  },
+  {
+    "text": "How can I request a Docker Desktop and PyCharm Professional license?",
+    "dept": "IT",
+    "intent": "software_access"
+  },
+  {
+    "text": "Can facilities team check the parking slot near the conference room?",
+    "dept": "ADMIN",
+    "intent": "facilities_supplies"
+  },
+  {
+    "text": "Can I combine unpaid leave with weekend public holidays?",
+    "dept": "HR",
+    "intent": "leave_inquiry"
+  },
+  {
+    "text": "Where in the finance portal do I upload flight tickets receipts?",
+    "dept": "ADMIN",
+    "intent": "travel_expense"
+  },
+  {
+    "text": "How do I connect to the corporate VPN from a Linux or Mac machine?",
+    "dept": "IT",
+    "intent": "vpn_network"
+  },
+  {
+    "text": "Need urgent IT hardware support for broken mechanical keyboard.",
+    "dept": "IT",
+    "intent": "hardware_issue"
+  },
+  {
+    "text": "Are optical checkups, eyeglasses, and lenses covered under employee benefits?",
+    "dept": "HR",
+    "intent": "benefits_insurance"
+  },
+  {
+    "text": "Does company policy provide reimbursement for dental fitness expenses?",
+    "dept": "HR",
+    "intent": "benefits_insurance"
+  },
+  {
+    "text": "When is the annual employee benefit enrollment window open?",
+    "dept": "HR",
+    "intent": "benefits_insurance"
+  },
+  {
+    "text": "What are the mental health counseling and therapy support programs available?",
+    "dept": "HR",
+    "intent": "benefits_insurance"
+  },
+  {
+    "text": "Need access permissions for Figma design developer environment.",
+    "dept": "IT",
+    "intent": "software_access"
+  },
+  {
+    "text": "There is a discrepancy in my bonus component on my payslip.",
+    "dept": "HR",
+    "intent": "payroll_salary"
+  },
+  {
+    "text": "Does company insurance cover dental procedures, cleanings, and braces?",
+    "dept": "HR",
+    "intent": "benefits_insurance"
+  },
+  {
+    "text": "What is the per diem meal allowance limit for domestic business travel?",
+    "dept": "ADMIN",
+    "intent": "travel_expense"
+  },
+  {
+    "text": "Need courier shipping service to send legal contracts to overseas office",
+    "dept": "ADMIN",
+    "intent": "facilities_supplies"
+  },
+  {
+    "text": "Need access permissions for PyCharm IDE developer environment.",
+    "dept": "IT",
+    "intent": "software_access"
+  },
+  {
+    "text": "Experiencing intermittent failure with my laptop mechanical keyboard.",
+    "dept": "IT",
+    "intent": "hardware_issue"
+  },
+  {
+    "text": "How do I check my remaining PTO balance in the HR portal?",
+    "dept": "HR",
+    "intent": "leave_inquiry"
+  },
+  {
+    "text": "Can I exchange my damaged docking station at the IT support desk?",
+    "dept": "IT",
+    "intent": "hardware_issue"
+  },
+  {
+    "text": "I want to check policy regarding vacation leave balance.",
+    "dept": "HR",
+    "intent": "leave_inquiry"
+  },
+  {
+    "text": "How do I submit hospital bills for annual health checkup claim approval?",
+    "dept": "HR",
+    "intent": "benefits_insurance"
+  },
+  {
+    "text": "Experiencing issues connecting to Okta MFA token network tunnel.",
+    "dept": "IT",
+    "intent": "vpn_network"
+  },
+  {
+    "text": "Can network team check why SSH bastion is unreachable today?",
+    "dept": "IT",
+    "intent": "vpn_network"
+  },
+  {
+    "text": "Experiencing intermittent failure with my laptop external 4K monitor.",
+    "dept": "IT",
+    "intent": "hardware_issue"
+  },
+  {
+    "text": "Firewall is blocking port 8080 required for local Docker development",
+    "dept": "IT",
+    "intent": "vpn_network"
+  },
+  {
+    "text": "What documents are needed when taking casual leave?",
+    "dept": "HR",
+    "intent": "leave_inquiry"
+  },
+  {
+    "text": "Can facilities team check the RFID access card near the conference room?",
+    "dept": "ADMIN",
+    "intent": "facilities_supplies"
+  },
+  {
+    "text": "Where can I request access to Jira project boards and Confluence spaces?",
+    "dept": "IT",
+    "intent": "software_access"
+  },
+  {
+    "text": "Where can I find policy details regarding annual health checkup coverage?",
+    "dept": "HR",
+    "intent": "benefits_insurance"
+  },
+  {
+    "text": "How do I update my bank account for direct deposit deposits?",
+    "dept": "HR",
+    "intent": "payroll_salary"
+  },
+  {
+    "text": "When is the cutoff for submitting tax withholding payroll declarations?",
+    "dept": "HR",
+    "intent": "payroll_salary"
+  },
+  {
+    "text": "Where can I collect office stationery, notebooks, sticky notes, and pens?",
+    "dept": "ADMIN",
+    "intent": "facilities_supplies"
+  },
+  {
+    "text": "Why does Active Directory domain fail whenever I switch wireless networks?",
+    "dept": "IT",
+    "intent": "vpn_network"
+  },
+  {
+    "text": "Who should I contact about an error in my tax deduction at source (TDS)?",
+    "dept": "HR",
+    "intent": "payroll_salary"
+  },
+  {
+    "text": "Does company policy provide reimbursement for vision fitness expenses?",
+    "dept": "HR",
+    "intent": "benefits_insurance"
+  },
+  {
+    "text": "My Slack desktop app keeps crashing on launch with fatal error",
+    "dept": "IT",
+    "intent": "software_access"
+  },
+  {
+    "text": "How do I submit hospital bills for vision claim approval?",
+    "dept": "HR",
+    "intent": "benefits_insurance"
+  },
+  {
+    "text": "Need a replacement ergonomic chair for my assigned office desk.",
+    "dept": "ADMIN",
+    "intent": "facilities_supplies"
+  },
+  {
+    "text": "How many days of paid vacation do I have left this year?",
+    "dept": "HR",
+    "intent": "leave_inquiry"
+  },
+  {
+    "text": "Experiencing intermittent failure with my laptop webcam microphone.",
+    "dept": "IT",
+    "intent": "hardware_issue"
+  },
+  {
+    "text": "Experiencing issues connecting to Active Directory domain network tunnel.",
+    "dept": "IT",
+    "intent": "vpn_network"
+  },
+  {
+    "text": "Need a replacement air conditioning temperature for my assigned office desk.",
+    "dept": "ADMIN",
+    "intent": "facilities_supplies"
+  },
+  {
+    "text": "Can I reserve a dedicated parking space in the basement parking garage?",
+    "dept": "ADMIN",
+    "intent": "facilities_supplies"
+  },
+  {
+    "text": "Getting timeout error when authenticating via Active Directory domain.",
+    "dept": "IT",
+    "intent": "vpn_network"
+  },
+  {
+    "text": "Experiencing intermittent failure with my laptop docking station.",
+    "dept": "IT",
+    "intent": "hardware_issue"
+  },
+  {
+    "text": "Need access permissions for Slack workspace developer environment.",
+    "dept": "IT",
+    "intent": "software_access"
+  },
+  {
+    "text": "Need urgent IT hardware support for broken laptop battery.",
+    "dept": "IT",
+    "intent": "hardware_issue"
+  },
+  {
+    "text": "Experiencing issues connecting to corporate WiFi network tunnel.",
+    "dept": "IT",
+    "intent": "vpn_network"
+  },
+  {
+    "text": "How do I submit an approval request to use AWS console tool?",
+    "dept": "IT",
+    "intent": "software_access"
+  },
+  {
+    "text": "Why does Okta MFA token fail whenever I switch wireless networks?",
+    "dept": "IT",
+    "intent": "vpn_network"
+  },
+  {
+    "text": "What is the payroll cutoff date for overtime and shift allowances?",
+    "dept": "HR",
+    "intent": "payroll_salary"
+  },
+  {
+    "text": "There is a discrepancy in my overtime pay component on my payslip.",
+    "dept": "HR",
+    "intent": "payroll_salary"
+  },
+  {
+    "text": "Getting timeout error when authenticating via SSH bastion.",
+    "dept": "IT",
+    "intent": "vpn_network"
+  },
+  {
+    "text": "Can I take casual leave on Monday after taking sick leave on Friday?",
+    "dept": "HR",
+    "intent": "leave_inquiry"
+  },
+  {
+    "text": "Can family dependents get coverage for prescription drug checkups?",
+    "dept": "HR",
+    "intent": "benefits_insurance"
+  },
+  {
+    "text": "How long does it take for finance to approve and disburse approved travel claims?",
+    "dept": "ADMIN",
+    "intent": "travel_expense"
+  },
+  {
+    "text": "My claim for airport taxi fare was returned asking for receipt clarification.",
+    "dept": "ADMIN",
+    "intent": "travel_expense"
+  },
+  {
+    "text": "Need urgent IT hardware support for broken webcam microphone.",
+    "dept": "IT",
+    "intent": "hardware_issue"
+  },
+  {
+    "text": "Why does SSH bastion fail whenever I switch wireless networks?",
+    "dept": "IT",
+    "intent": "vpn_network"
+  },
+  {
+    "text": "I want to check policy regarding maternity leave balance.",
+    "dept": "HR",
+    "intent": "leave_inquiry"
+  },
+  {
+    "text": "My claim for flight tickets was returned asking for receipt clarification.",
+    "dept": "ADMIN",
+    "intent": "travel_expense"
+  },
+  {
+    "text": "My work laptop has a faulty laptop battery requiring replacement.",
+    "dept": "IT",
+    "intent": "hardware_issue"
+  },
+  {
+    "text": "Are annual health checkup healthcare medical expenses covered under company plan?",
+    "dept": "HR",
+    "intent": "benefits_insurance"
+  },
+  {
+    "text": "Could you explain the process for applying emergency off days?",
+    "dept": "HR",
+    "intent": "leave_inquiry"
+  },
+  {
+    "text": "Can I get reimbursement for car mileage allowance incurred during client workshop?",
+    "dept": "ADMIN",
+    "intent": "travel_expense"
+  },
+  {
+    "text": "Experiencing issues connecting to firewall port network tunnel.",
+    "dept": "IT",
+    "intent": "vpn_network"
+  },
+  {
+    "text": "How do I order new RFID access card for our team workstation area?",
+    "dept": "ADMIN",
+    "intent": "facilities_supplies"
+  },
+  {
+    "text": "How do I update my bank account for bonus deposits?",
+    "dept": "HR",
+    "intent": "payroll_salary"
+  },
+  {
+    "text": "How to register a new phone device for Microsoft Authenticator?",
+    "dept": "IT",
+    "intent": "vpn_network"
+  },
+  {
+    "text": "How do I order new air conditioning temperature for our team workstation area?",
+    "dept": "ADMIN",
+    "intent": "facilities_supplies"
+  },
+  {
+    "text": "How do I order new parking slot for our team workstation area?",
+    "dept": "ADMIN",
+    "intent": "facilities_supplies"
+  },
+  {
+    "text": "My claim for hotel per diem was returned asking for receipt clarification.",
+    "dept": "ADMIN",
+    "intent": "travel_expense"
+  },
+  {
+    "text": "Need a replacement RFID access card for my assigned office desk.",
+    "dept": "ADMIN",
+    "intent": "facilities_supplies"
+  },
+  {
+    "text": "Can family dependents get coverage for dental checkups?",
+    "dept": "HR",
+    "intent": "benefits_insurance"
+  },
+  {
+    "text": "Where can I find policy details regarding vision coverage?",
+    "dept": "HR",
+    "intent": "benefits_insurance"
+  },
+  {
+    "text": "My Slack workspace desktop application crashes during video calls.",
+    "dept": "IT",
+    "intent": "software_access"
+  },
+  {
+    "text": "Need a replacement charger adapter for Lenovo ThinkPad work laptop",
+    "dept": "IT",
+    "intent": "hardware_issue"
+  },
+  {
+    "text": "I want to check policy regarding casual leave balance.",
+    "dept": "HR",
+    "intent": "leave_inquiry"
+  },
+  {
+    "text": "The laptop battery connected to my workstation stopped functioning.",
+    "dept": "IT",
+    "intent": "hardware_issue"
+  },
+  {
+    "text": "Requesting software license and activation key for AWS console.",
+    "dept": "IT",
+    "intent": "software_access"
+  },
+  {
+    "text": "Is emergency leave allowed for new employees during probation?",
+    "dept": "HR",
+    "intent": "leave_inquiry"
+  },
+  {
+    "text": "Does company policy provide reimbursement for dependent health fitness expenses?",
+    "dept": "HR",
+    "intent": "benefits_insurance"
+  },
+  {
+    "text": "Can network team check why GlobalProtect VPN is unreachable today?",
+    "dept": "IT",
+    "intent": "vpn_network"
+  },
+  {
+    "text": "How do I file an expense claim for business airport taxi fare expenses?",
+    "dept": "ADMIN",
+    "intent": "travel_expense"
+  },
+  {
+    "text": "Are prescription drug healthcare medical expenses covered under company plan?",
+    "dept": "HR",
+    "intent": "benefits_insurance"
+  },
+  {
+    "text": "How do I submit hospital bills for outpatient claim approval?",
+    "dept": "HR",
+    "intent": "benefits_insurance"
+  },
+  {
+    "text": "Getting timeout error when authenticating via GlobalProtect VPN.",
+    "dept": "IT",
+    "intent": "vpn_network"
+  },
+  {
+    "text": "Can I get reimbursement for hotel per diem incurred during client workshop?",
+    "dept": "ADMIN",
+    "intent": "travel_expense"
+  },
+  {
+    "text": "What is the maximum allowed budget for business trip flight tickets?",
+    "dept": "ADMIN",
+    "intent": "travel_expense"
+  },
+  {
+    "text": "Can I get an advance cash float for team client dinner and entertainment?",
+    "dept": "ADMIN",
+    "intent": "travel_expense"
+  },
+  {
+    "text": "My work laptop has a faulty mechanical keyboard requiring replacement.",
+    "dept": "IT",
+    "intent": "hardware_issue"
+  },
+  {
+    "text": "My work laptop has a faulty external 4K monitor requiring replacement.",
+    "dept": "IT",
+    "intent": "hardware_issue"
+  },
+  {
+    "text": "There is a discrepancy in my tax withholding component on my payslip.",
+    "dept": "HR",
+    "intent": "payroll_salary"
+  },
+  {
+    "text": "My GitHub repo desktop application crashes during video calls.",
+    "dept": "IT",
+    "intent": "software_access"
+  },
+  {
+    "text": "Getting permission denied error when accessing PyCharm IDE directory.",
+    "dept": "IT",
+    "intent": "software_access"
+  },
+  {
+    "text": "The RFID access card in the reception lobby is out of order.",
+    "dept": "ADMIN",
+    "intent": "facilities_supplies"
+  },
+  {
+    "text": "Are vision healthcare medical expenses covered under company plan?",
+    "dept": "HR",
+    "intent": "benefits_insurance"
+  },
+  {
+    "text": "Inquiry regarding provident fund tax deduction on my monthly paycheck.",
+    "dept": "HR",
+    "intent": "payroll_salary"
+  },
+  {
+    "text": "Getting permission denied error when accessing Figma design directory.",
+    "dept": "IT",
+    "intent": "software_access"
+  },
+  {
+    "text": "How do I request an office locker key for storing personal belongings?",
+    "dept": "ADMIN",
+    "intent": "facilities_supplies"
+  },
+  {
+    "text": "Where in the finance portal do I upload airport taxi fare receipts?",
+    "dept": "ADMIN",
+    "intent": "travel_expense"
+  },
+  {
+    "text": "My PyCharm IDE desktop application crashes during video calls.",
+    "dept": "IT",
+    "intent": "software_access"
+  },
+  {
+    "text": "Where can I find policy details regarding outpatient coverage?",
+    "dept": "HR",
+    "intent": "benefits_insurance"
+  },
+  {
+    "text": "Getting permission denied error when accessing Slack workspace directory.",
+    "dept": "IT",
+    "intent": "software_access"
+  },
+  {
+    "text": "Need access permissions for GitHub repo developer environment.",
+    "dept": "IT",
+    "intent": "software_access"
+  },
+  {
+    "text": "The USB-C docking station is not recognizing external 4K monitors",
+    "dept": "IT",
+    "intent": "hardware_issue"
+  },
+  {
+    "text": "Experiencing intermittent failure with my laptop laptop battery.",
+    "dept": "IT",
+    "intent": "hardware_issue"
+  },
+  {
+    "text": "Where do I submit credit card bills for corporate corporate card expenses?",
+    "dept": "ADMIN",
+    "intent": "travel_expense"
+  },
+  {
+    "text": "I want to check policy regarding paternity leave balance.",
+    "dept": "HR",
+    "intent": "leave_inquiry"
+  },
+  {
+    "text": "Who can help me understand my bonus year-end deductions?",
+    "dept": "HR",
+    "intent": "payroll_salary"
+  },
+  {
+    "text": "How do I order new printer toner for our team workstation area?",
+    "dept": "ADMIN",
+    "intent": "facilities_supplies"
+  },
+  {
+    "text": "I want to check policy regarding unpaid leave balance.",
+    "dept": "HR",
+    "intent": "leave_inquiry"
+  },
+  {
+    "text": "Can I increase my voluntary provident fund (VPF) monthly deduction?",
+    "dept": "HR",
+    "intent": "payroll_salary"
+  },
+  {
+    "text": "Who can help me understand my tax withholding year-end deductions?",
+    "dept": "HR",
+    "intent": "payroll_salary"
+  },
+  {
+    "text": "Requesting office assistance regarding RFID access card on our floor.",
+    "dept": "ADMIN",
+    "intent": "facilities_supplies"
+  },
+  {
+    "text": "How do I submit hospital bills for prescription drug claim approval?",
+    "dept": "HR",
+    "intent": "benefits_insurance"
+  },
+  {
+    "text": "Experiencing intermittent failure with my laptop USB-C charger.",
+    "dept": "IT",
+    "intent": "hardware_issue"
+  },
+  {
+    "text": "Getting permission denied error when accessing GitHub repo directory.",
+    "dept": "IT",
+    "intent": "software_access"
+  },
+  {
+    "text": "My work laptop has a faulty USB-C charger requiring replacement.",
+    "dept": "IT",
+    "intent": "hardware_issue"
+  },
+  {
+    "text": "Requesting office assistance regarding parking slot on our floor.",
+    "dept": "ADMIN",
+    "intent": "facilities_supplies"
+  },
+  {
+    "text": "I want to check policy regarding sick leave balance.",
+    "dept": "HR",
+    "intent": "leave_inquiry"
+  },
+  {
+    "text": "Can IT whitelist our remote team IP address for staging database access?",
+    "dept": "IT",
+    "intent": "vpn_network"
+  },
+  {
+    "text": "Can family dependents get coverage for gym wellness checkups?",
+    "dept": "HR",
+    "intent": "benefits_insurance"
+  },
+  {
+    "text": "I want to check policy regarding emergency leave balance.",
+    "dept": "HR",
+    "intent": "leave_inquiry"
+  },
+  {
+    "text": "Who can help me understand my direct deposit year-end deductions?",
+    "dept": "HR",
+    "intent": "payroll_salary"
+  },
+  {
+    "text": "Need help configuring GlobalProtect VPN on my company-issued machine.",
+    "dept": "IT",
+    "intent": "vpn_network"
+  },
+  {
+    "text": "Could you explain the process for applying vacation off days?",
+    "dept": "HR",
+    "intent": "leave_inquiry"
+  },
+  {
+    "text": "Who can help me understand my overtime pay year-end deductions?",
+    "dept": "HR",
+    "intent": "payroll_salary"
+  },
+  {
+    "text": "Requesting software license and activation key for GitHub repo.",
+    "dept": "IT",
+    "intent": "software_access"
+  },
+  {
+    "text": "My claim for car mileage allowance was returned asking for receipt clarification.",
+    "dept": "ADMIN",
+    "intent": "travel_expense"
+  },
+  {
+    "text": "What is the maximum allowed budget for business trip client dinner meal?",
+    "dept": "ADMIN",
+    "intent": "travel_expense"
+  },
+  {
+    "text": "Outlook email client is not syncing incoming emails since yesterday",
+    "dept": "IT",
+    "intent": "software_access"
+  },
+  {
+    "text": "The air conditioning temperature in the reception lobby is out of order.",
+    "dept": "ADMIN",
+    "intent": "facilities_supplies"
+  },
+  {
+    "text": "What is the maximum allowed budget for business trip hotel per diem?",
+    "dept": "ADMIN",
+    "intent": "travel_expense"
+  },
+  {
+    "text": "How do I submit hospital bills for dependent health claim approval?",
+    "dept": "HR",
+    "intent": "benefits_insurance"
+  },
+  {
+    "text": "Can I combine bereavement leave with weekend public holidays?",
+    "dept": "HR",
+    "intent": "leave_inquiry"
+  },
+  {
+    "text": "Where can I download my monthly salary payslips and tax withholding form?",
+    "dept": "HR",
+    "intent": "payroll_salary"
+  },
+  {
+    "text": "How do I reset my domain password after it expired today?",
+    "dept": "IT",
+    "intent": "vpn_network"
+  },
+  {
+    "text": "Could you explain the process for applying maternity off days?",
+    "dept": "HR",
+    "intent": "leave_inquiry"
+  },
+  {
+    "text": "How do I update my bank account for overtime pay deposits?",
+    "dept": "HR",
+    "intent": "payroll_salary"
+  },
+  {
+    "text": "Where can I find policy details regarding dependent health coverage?",
+    "dept": "HR",
+    "intent": "benefits_insurance"
+  },
+  {
+    "text": "How do I file an expense claim for business flight tickets expenses?",
+    "dept": "ADMIN",
+    "intent": "travel_expense"
+  },
+  {
+    "text": "Slow internet download speeds over corporate guest wireless network",
+    "dept": "IT",
+    "intent": "vpn_network"
+  },
+  {
+    "text": "Why does corporate WiFi fail whenever I switch wireless networks?",
+    "dept": "IT",
+    "intent": "vpn_network"
+  },
+  {
+    "text": "My expense report was rejected because of missing itemized tax receipts",
+    "dept": "ADMIN",
+    "intent": "travel_expense"
+  },
+  {
+    "text": "The USB-C charger connected to my workstation stopped functioning.",
+    "dept": "IT",
+    "intent": "hardware_issue"
+  },
+  {
+    "text": "How do I submit an approval request to use GitHub repo tool?",
+    "dept": "IT",
+    "intent": "software_access"
+  },
+  {
+    "text": "Why was my salary deducted for loss of pay this month?",
+    "dept": "HR",
+    "intent": "payroll_salary"
+  },
+  {
+    "text": "Where can I find policy details regarding gym wellness coverage?",
+    "dept": "HR",
+    "intent": "benefits_insurance"
+  },
+  {
+    "text": "Who can help me understand my salary payslip year-end deductions?",
+    "dept": "HR",
+    "intent": "payroll_salary"
+  },
+  {
+    "text": "When is the cutoff for submitting overtime pay payroll declarations?",
+    "dept": "HR",
+    "intent": "payroll_salary"
+  },
+  {
+    "text": "Zoom meetings screen sharing crashes my graphics driver on macOS",
+    "dept": "IT",
+    "intent": "software_access"
+  },
+  {
+    "text": "Need help configuring corporate WiFi on my company-issued machine.",
+    "dept": "IT",
+    "intent": "vpn_network"
+  },
+  {
+    "text": "Requesting office assistance regarding printer toner on our floor.",
+    "dept": "ADMIN",
+    "intent": "facilities_supplies"
+  },
+  {
+    "text": "How do I order new stationery supplies for our team workstation area?",
+    "dept": "ADMIN",
+    "intent": "facilities_supplies"
+  },
+  {
+    "text": "Inquiry regarding salary payslip tax deduction on my monthly paycheck.",
+    "dept": "HR",
+    "intent": "payroll_salary"
+  },
+  {
+    "text": "What documents are needed when taking emergency leave?",
+    "dept": "HR",
+    "intent": "leave_inquiry"
+  },
+  {
+    "text": "Can facilities provide an extra dual-monitor desk mount clamp for desk 42?",
+    "dept": "ADMIN",
+    "intent": "facilities_supplies"
+  },
+  {
+    "text": "How do I order new ergonomic chair for our team workstation area?",
+    "dept": "ADMIN",
+    "intent": "facilities_supplies"
+  },
+  {
+    "text": "There is a discrepancy in my salary payslip component on my payslip.",
+    "dept": "HR",
+    "intent": "payroll_salary"
+  },
+  {
+    "text": "The printer toner in the reception lobby is out of order.",
+    "dept": "ADMIN",
+    "intent": "facilities_supplies"
+  },
+  {
+    "text": "Light bulb above my desk is flickering constantly and causing eye strain",
+    "dept": "ADMIN",
+    "intent": "facilities_supplies"
+  },
+  {
+    "text": "Do I need a doctor certificate for two days of sick leave?",
+    "dept": "HR",
+    "intent": "leave_inquiry"
+  },
+  {
+    "text": "Are outpatient healthcare medical expenses covered under company plan?",
+    "dept": "HR",
+    "intent": "benefits_insurance"
+  },
+  {
+    "text": "Where in the finance portal do I upload client dinner meal receipts?",
+    "dept": "ADMIN",
+    "intent": "travel_expense"
+  },
+  {
+    "text": "My AWS console desktop application crashes during video calls.",
+    "dept": "IT",
+    "intent": "software_access"
+  },
+  {
+    "text": "I want to check policy regarding bereavement leave balance.",
+    "dept": "HR",
+    "intent": "leave_inquiry"
+  },
+  {
+    "text": "Need help configuring Active Directory domain on my company-issued machine.",
+    "dept": "IT",
+    "intent": "vpn_network"
+  },
+  {
+    "text": "Can facilities team check the stationery supplies near the conference room?",
+    "dept": "ADMIN",
+    "intent": "facilities_supplies"
+  },
+  {
+    "text": "Can I combine maternity leave with weekend public holidays?",
+    "dept": "HR",
+    "intent": "leave_inquiry"
+  },
+  {
+    "text": "How do I file an expense claim for business hotel per diem expenses?",
+    "dept": "ADMIN",
+    "intent": "travel_expense"
+  },
+  {
+    "text": "How do I add my newborn child or spouse to my group health insurance plan?",
+    "dept": "HR",
+    "intent": "benefits_insurance"
+  },
+  {
+    "text": "Can facilities team check the ergonomic chair near the conference room?",
+    "dept": "ADMIN",
+    "intent": "facilities_supplies"
+  },
+  {
+    "text": "Need urgent IT hardware support for broken external 4K monitor.",
+    "dept": "IT",
+    "intent": "hardware_issue"
+  },
+  {
+    "text": "Is unpaid leave allowed for new employees during probation?",
+    "dept": "HR",
+    "intent": "leave_inquiry"
+  },
+  {
+    "text": "Can I combine emergency leave with weekend public holidays?",
+    "dept": "HR",
+    "intent": "leave_inquiry"
+  },
+  {
+    "text": "Cannot pull private Docker image from company container registry",
+    "dept": "IT",
+    "intent": "software_access"
+  },
+  {
+    "text": "Where can I download the health insurance cashless claim e-card?",
+    "dept": "HR",
+    "intent": "benefits_insurance"
+  },
+  {
+    "text": "What is the annual gym and wellness allowance reimbursement limit?",
+    "dept": "HR",
+    "intent": "benefits_insurance"
+  },
+  {
+    "text": "Can network team check why Active Directory domain is unreachable today?",
+    "dept": "IT",
+    "intent": "vpn_network"
+  },
+  {
+    "text": "How do I file an expense claim for business car mileage allowance expenses?",
+    "dept": "ADMIN",
+    "intent": "travel_expense"
+  },
+  {
+    "text": "Please grant me write access to the main GitHub repository backend repository",
+    "dept": "IT",
+    "intent": "software_access"
+  },
+  {
+    "text": "The webcam microphone connected to my workstation stopped functioning.",
+    "dept": "IT",
+    "intent": "hardware_issue"
+  },
+  {
+    "text": "My laptop screen is flickering and showing horizontal colored lines",
+    "dept": "IT",
+    "intent": "hardware_issue"
+  },
+  {
+    "text": "I lost my office RFID entry access card and need a new security badge",
+    "dept": "ADMIN",
+    "intent": "facilities_supplies"
+  },
+  {
+    "text": "Is bereavement leave allowed for new employees during probation?",
+    "dept": "HR",
+    "intent": "leave_inquiry"
+  },
+  {
+    "text": "Where can I find policy details regarding dental coverage?",
+    "dept": "HR",
+    "intent": "benefits_insurance"
+  },
+  {
+    "text": "Where can I find policy details regarding prescription drug coverage?",
+    "dept": "HR",
+    "intent": "benefits_insurance"
+  },
+  {
+    "text": "What healthcare coverage does the corporate health insurance policy provide?",
+    "dept": "HR",
+    "intent": "benefits_insurance"
+  },
+  {
+    "text": "Laptop trackpad is unresponsive and mouse pointer is jumping around",
+    "dept": "IT",
+    "intent": "hardware_issue"
+  },
+  {
+    "text": "Requesting office assistance regarding stationery supplies on our floor.",
+    "dept": "ADMIN",
+    "intent": "facilities_supplies"
+  }
+]
