@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>OfficeMate 2.0 – The Intelligent Virtual Workplace</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --primary: #4F46E5;
+      --primary-hover: #4338CA;
+      --navy: #0F172A;
+      --slate: #475569;
+      --border: #E2E8F0;
+      --bg: #F8FAFC;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+      background: var(--bg);
+      color: var(--navy);
+      line-height: 1.6;
+      padding: 0 1rem;
+    }
+    .container {
+      max-width: 1080px;
+      margin: 0 auto;
+      padding: 3rem 1rem 5rem;
+    }
+    header {
+      text-align: center;
+      margin-bottom: 3rem;
+    }
+    .badge {
+      display: inline-block;
+      padding: 0.35rem 0.85rem;
+      background: #EEF2FF;
+      color: var(--primary);
+      border-radius: 9999px;
+      font-size: 0.85rem;
+      font-weight: 700;
+      letter-spacing: 0.04em;
+      text-transform: uppercase;
+      margin-bottom: 1rem;
+    }
+    h1 {
+      font-size: 2.75rem;
+      font-weight: 800;
+      color: var(--navy);
+      letter-spacing: -0.02em;
+      margin-bottom: 1rem;
+    }
+    p.subtitle {
+      font-size: 1.2rem;
+      color: var(--slate);
+      max-width: 680px;
+      margin: 0 auto 2rem;
+    }
+    .actions {
+      display: flex;
+      gap: 1rem;
+      justify-content: center;
+      flex-wrap: wrap;
+      margin-bottom: 3.5rem;
+    }
+    .btn {
+      padding: 0.85rem 1.6rem;
+      border-radius: 12px;
+      font-size: 1rem;
+      font-weight: 700;
+      text-decoration: none;
+      transition: all 0.2s ease;
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+    }
+    .btn-primary {
+      background: var(--primary);
+      color: white;
+      box-shadow: 0 4px 14px rgba(79, 70, 229, 0.3);
+    }
+    .btn-primary:hover {
+      background: var(--primary-hover);
+      transform: translateY(-2px);
+    }
+    .btn-secondary {
+      background: white;
+      color: var(--navy);
+      border: 1px solid var(--border);
+      box-shadow: 0 2px 8px rgba(0,0,0,0.04);
+    }
+    .btn-secondary:hover {
+      background: #F1F5F9;
+      transform: translateY(-2px);
+    }
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+      gap: 1.5rem;
+      margin-bottom: 3.5rem;
+    }
+    .card {
+      background: white;
+      border: 1px solid var(--border);
+      border-radius: 16px;
+      padding: 1.75rem;
+      box-shadow: 0 4px 16px rgba(0,0,0,0.03);
+      transition: transform 0.2s ease;
+    }
+    .card:hover {
+      transform: translateY(-4px);
+    }
+    .card-icon {
+      font-size: 2rem;
+      margin-bottom: 0.75rem;
+    }
+    .card h3 {
+      font-size: 1.25rem;
+      font-weight: 700;
+      margin-bottom: 0.5rem;
+      color: var(--navy);
+    }
+    .card p {
+      color: var(--slate);
+      font-size: 0.95rem;
+    }
+    .banner-callout {
+      background: linear-gradient(135deg, #4F46E5, #6366F1);
+      color: white;
+      border-radius: 20px;
+      padding: 2.5rem;
+      text-align: center;
+      margin-bottom: 3rem;
+    }
+    .banner-callout h2 {
+      font-size: 1.75rem;
+      margin-bottom: 0.75rem;
+    }
+    .banner-callout p {
+      opacity: 0.9;
+      max-width: 650px;
+      margin: 0 auto 1.5rem;
+    }
+    footer {
+      text-align: center;
+      color: var(--slate);
+      font-size: 0.9rem;
+      border-top: 1px solid var(--border);
+      padding-top: 2rem;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <span class="badge">CSE472 Deep Learning for NLP • Project 20</span>
+      <h1>🏢 OfficeMate 2.0</h1>
+      <p class="subtitle">The Intelligent Virtual Workplace powered by Bidirectional LSTM Intent Classification, Semantic RAG Policy Retrieval, and Enterprise Digital Twin Telemetry.</p>
+      <div class="actions">
+        <a href="http://localhost:8501" class="btn btn-primary" target="_blank">🚀 Launch Virtual Workplace (Port 8501)</a>
+        <a href="https://github.com/mamatabalakatte/ProjOfficeMate" class="btn btn-secondary" target="_blank">🐙 View GitHub Repository</a>
+        <a href="https://share.streamlit.io" class="btn btn-secondary" target="_blank">☁️ Deploy on Streamlit Cloud</a>
+      </div>
+    </header>
+
+    <div class="grid">
+      <div class="card">
+        <div class="card-icon">🤖</div>
+        <h3>AI Workplace Assistant</h3>
+        <p>Conversational assistant routing queries across HR, IT, and Admin. Powered by PyTorch Bi-LSTM (92.16% accuracy) and TF-IDF baseline.</p>
+      </div>
+      <div class="card">
+        <div class="card-icon">📚</div>
+        <h3>RAG Policy Retrieval</h3>
+        <p>Sentence-chunked TF-IDF vector search with cosine similarity, exact phrase boosting, and verified corporate policy citations.</p>
+      </div>
+      <div class="card">
+        <div class="card-icon">🎫</div>
+        <h3>Automatic Ticket Triage</h3>
+        <p>Keyword severity engine detecting critical incidents and automatically issuing unique tickets (<code>TKT-&lt;DEPT&gt;-YYYYMMDD-###</code>).</p>
+      </div>
+      <div class="card">
+        <div class="card-icon">🌐</div>
+        <h3>Enterprise Digital Twin</h3>
+        <p>Real-time telemetry and discrete-event SimPy M/M/c queuing simulation testing operational shocks and queue congestion.</p>
+      </div>
+      <div class="card">
+        <div class="card-icon">📅</div>
+        <h3>Meeting Room Booking</h3>
+        <p>Interactive conference room reservations with collision prevention, amenities filtering, and instant confirmations.</p>
+      </div>
+      <div class="card">
+        <div class="card-icon">👥</div>
+        <h3>6 Dynamic Personas</h3>
+        <p>Interactive role-based switching across employees, HR leads, IT leads, and facilities admins with dynamic personal cockpits.</p>
+      </div>
+    </div>
+
+    <div class="banner-callout">
+      <h2>Deploy Live to Streamlit Cloud in 1 Click</h2>
+      <p>Connect your GitHub repository to Streamlit Community Cloud for free, permanent public hosting with zero size limits and full WebSocket support.</p>
+      <a href="https://share.streamlit.io" target="_blank" class="btn btn-secondary" style="color: #4F46E5;">Deploy on share.streamlit.io →</a>
+    </div>
+
+    <footer>
+      <p>OfficeMate 2.0 • Created by Mamatha Balakatte • Built with Streamlit, Flask, PyTorch & SimPy</p>
+    </footer>
+  </div>
+</body>
+</html>
